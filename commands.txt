@@ -1,4 +1,6 @@
 gitinit=>initializing git in present folder
 git status=> list all untracked files
-git add -A
+git add -A=>add all untracked files
 git commit "add a msg"
+git remote add name path
+git push -u name branch
